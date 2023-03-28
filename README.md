@@ -9,11 +9,6 @@
 
 ---
 ## 🎯 **Objetivos da Disciplina**
-<<<<<<< HEAD
-=======
-
->>>>>>> 0203ea634fe55aa5811715c95de2f3e6943f5446
-
 ­✅ Desenvolver aplicações em Python, baseando­-se na metodologia de desenvolvimento rápido de aplicações (RAD), para realizar entregas de produtos de forma célere e coesa. 
 
 ✅ Implementar técnicas manipulação de dados, com base com base nas bibliotecas da linguagem de programação Python, para obter sistemas capazes de entregar persistência de dados tratados contra erros de usuários.
