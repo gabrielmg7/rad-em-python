@@ -5,7 +5,7 @@
     Segunda-Feira | 18h30 - 21h10 | VCRPS | Sala B-209
     👨🏻 Professor Henrique Nogueira da Gama Mota
 
-[🔗 Projeto no Notion](https://gabrielmdev.notion.site/ARA0095-DESENV-R-PIDO-DE-APLIC-EM-PYTHON-459e3c32d1074bac8d710c8651d904fc)
+[🔗 Projeto no Notion](https://www.notion.so/gabrielmdev/ARA0095-DESENV-R-PIDO-DE-APLIC-EM-PYTHON-459e3c32d1074bac8d710c8651d904fc?pvs=4)
 
 ---
 ## 🎯 **Objetivos da Disciplina**
