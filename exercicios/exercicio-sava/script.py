@@ -8,9 +8,10 @@ cursor.execute(  # Cria a tabela "students" com as colunas "nome" e "grade"
 )
 
 # Insere alguns dados na tabela
-cursor.execute("INSERT INTO students (nome, grade) VALUES (?, ?)", ("Alice", 95))
-cursor.execute("INSERT INTO students (nome, grade) VALUES (?, ?)", ("Bob", 84))
 cursor.execute("INSERT INTO students (nome, grade) VALUES (?, ?)", ("Charlie", 72))
+cursor.execute("INSERT INTO students (nome, grade) VALUES (?, ?)", ("Alice", 95))
+cursor.execute("INSERT INTO students (nome, grade) VALUES (?, ?)", ("Bob", 16))
+cursor.execute("INSERT INTO students (nome, grade) VALUES (?, ?)", ("Marley", 20))
 
 connection.commit()  # Salva as alterações no banco de dados
 connection.close()  # Encerra a conexão com o banco de dados
